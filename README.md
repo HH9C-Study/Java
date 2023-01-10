@@ -28,6 +28,17 @@
 
 <br>
 
+## 📌 스터디시간표
+|날짜|진행사항|발표자|진행여부|
+|:---:|:---|:---:|:---:|
+|22-01-11|Chapter02 변수|정성우||
+|22-01-12|Chapter03 연산자|원민재||
+|22-01-13|Chapter04 조건문과 반복문|장윤서||
+
+
+
+<br>
+
 ## 👨‍👩‍👧‍👧 참여 인원
 
 ||![image](https://user-images.githubusercontent.com/99253403/211563396-1939db91-d2cb-4d57-a51d-5f388cc86b1e.png)|![image](https://user-images.githubusercontent.com/99253403/211563364-98d1cfa8-f1e4-46cd-a823-c9603e266dc2.png)|![image](https://user-images.githubusercontent.com/99253403/211563287-77877c84-2ca6-4af6-a907-7b76f7b9d5cf.png)|
