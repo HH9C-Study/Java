@@ -31,6 +31,6 @@
 ## 👨‍👩‍👧‍👧 참여 인원
 
 |장윤서|정성우|
-|:---:|:---:|:---:|
+|:---:|:---:|
 |[@Younddo](https://github.com/Younddo)|[@anfrosus](https://github.com/anfrosus)|
 |Spring,Java|Spring,Java|
